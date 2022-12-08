@@ -1,5 +1,11 @@
 # Hi, I'm Bryant Liang 🙂
 
+<!-- 
+<p align="center">
+  <img width="300px" src="https://user-images.githubusercontent.com/79380837/206579489-8d5c1fdc-cf69-4482-b45f-f02ea8c8965e.jpeg" alt="headshot">
+</p>
+-->
+
 Welcome to my portfolio! I am 4th year cognitive science major, anthropology minor and am interested in pursuing a career as a UX researcher so that I can continue to be imaginative and creative in solving problems for the future. Below I have linked some of my UX research projects I have done in the past. 
 
 <!-- 
