@@ -14,7 +14,7 @@ Useful Links
   <img width="800px" src="https://user-images.githubusercontent.com/79380837/206577164-4c33b189-0411-4ec0-ae20-eaffe3d21ada.png" alt="Seepay Screens">
 </p>
 
-Through the course of 10 weeks, I traversed through the human-centered design process and created [DisposeMe](https://github.com/brygoesmoo/DH110/tree/main/Portfolio), an app to aid in waste disposal, to address the UN's sustainability issue of responsible production and consumption. 
+Through the course of 10 weeks, I traversed through the human-centered design process, including UX research, storytelling, and design, and created [DisposeMe](https://github.com/brygoesmoo/DH110/tree/main/Portfolio), an app to aid in waste disposal, to address the UN's sustainability issue of responsible production and consumption. 
 
 ## Seepay: Mobile Payment App
 <p align="center">
