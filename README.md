@@ -35,4 +35,4 @@ With a team of 3 UX researchers, we conducted **UX research (heuristic evaluatio
 </p>
 
 
-Part of my duties as a UX intern at NextBest, a mobile marketplace for second-hand clothing, was to conduct UX research on the target audience. I was involved in **usability testing, heuristic evaluations, root cause analyses, and contextual inquiries**. 
+Part of my duties as a UX intern at [NextBest](https://www.figma.com/file/tEaE90Z5utGdqV2EmIu4OL/Bryant's-NextBest-Prototypes?node-id=0-1), a mobile marketplace for second-hand clothing, was to conduct UX research on the target audience. I was involved in **usability testing, heuristic evaluations, root cause analyses, and contextual inquiries**. 
