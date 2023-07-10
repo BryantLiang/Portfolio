@@ -6,7 +6,7 @@
 </p>
 -->
 
-Welcome to my portfolio! I am currently a UCLA graduate with a degree in cognitive science and a minor in anthropology, and I am interested in pursuing a career as a UX researcher so that I can continue to be imaginative and creative in solving problems for the future. Below I have linked some of my UX research projects I have done in the past. 
+Welcome to my portfolio! I am a recent UCLA graduate with a degree in cognitive science and a minor in anthropology, and I am interested in pursuing a career as a UX researcher so that I can continue to be imaginative and creative in solving problems for the future. Below I have linked some of my UX research projects I have done in the past. 
 
 <!-- 
 Useful Links
