@@ -55,5 +55,5 @@ Tools Used: Zoom, Figma, Google Forms, Google Jamboard
 
 **Role:** Photoethnographer
 <br><br> **Challenge:** Analyze a piece of Los Angeles' culture through participant observation and create a photoethography.  
-<br><br> **Methodology:** In two seperate occasions, I visited the Venice Beach basketball courts and observed the happenings. I took note of the people, the interactions, the artifacts, the patterns, and connected my insights to anthropological themes of gender, class, race/ethnicity. I used my phone to document pictures that supported my insights. 
+<br> **Methodology:** In two seperate occasions, I visited the Venice Beach basketball courts and observed the happenings. I took note of the people, the interactions, the artifacts, the patterns, and connected my insights to anthropological themes of gender, class, race/ethnicity. I used my phone to document pictures that supported my insights. 
 <br><br> **Impact:** I was able to document the anthropology of one of Los Angeles's iconic landmarks, the Venice Beach basketball courts, which led to a new perspective on the area. Through the journey, I was able to exercise my curiousity, as well as practice taking field notes and analyzing data in order to create deeper meaning and connections. 
