@@ -24,6 +24,7 @@ Useful Links
 <br><br> **Challenge:** Design a solution to address one of the UN’s 17 sustainable goals: irresponsible consumption and production. 
 <br><br> **Methodology:** Over the course of 10 weeks, I traversed through the UX design process, which included exploratory research, creating a design statement, conducting research (heuristic evaluation, usability testing, contextual inquiry), engaging in UX storytelling, and designing, testing, and redesigning prototypes. **Tools Used:** Zoom, Google Forms, and Figma. 
 <br><br> **Impact:** I was able to create a prototype of an app called [DisposeMe](https://github.com/brygoesmoo/DH110/tree/main/Portfolio) that addressed irresponsible consumption and production through aiding in waste disposal that was catered to the user’s needs and preferences. 
+<br><br>
 
 ## Seepay (Mobile Payment App)
 <p align="center">
@@ -34,7 +35,7 @@ Useful Links
 <br><br> **Challenge:** Identify usability issues in Seepay’s mobile application and analyze the intuitiveness of the app. 
 <br><br> **Methodology:**  My team and I conducted UX research and analysis, including heuristic evaluations and usability tests on 8 participants. We synthesized and analyzed the data using Google Sheets and created a [usability research report](https://drive.google.com/file/d/1rKBLxrFM66W1Xq9ECBqj0PpdzZ-j2HBB/view?usp=sharing) and a [presentation](https://drive.google.com/file/d/1ub9fs-LU3hb_aM4atjm28EgqUDebTloO/view?usp=sharing) to present to UCLA Creative Labs on a demo day and the CEO of Seepay. **Tools Used:** Zoom, Google Forms, Google Slides, and Google Sheets.
 <br><br> **Impact:** The usability issues we found and the recommendations we suggested to Seepay led to improvements made to the app by developers. 
-
+<br><br>
 
 ## NextBest (Mobile Marketplace App)
 <p align="center">
@@ -46,6 +47,7 @@ Useful Links
 <br><br> **Methodology:** Our team followed the UX design process, which involved conducting user research (usability testing, heuristic evaluation, contextual inquiry, root cause analysis), analyzing user research, creating prototypes, and repeat. We create several iterations of the mobile app and compiled them together to create a working prototype.  
 Tools Used: Zoom, Figma, Google Forms, Google Jamboard
 <br><br> **Impact:** Our team improved many [features](https://www.figma.com/file/tEaE90Z5utGdqV2EmIu4OL/Bryant's-NextBest-Prototypes?node-id=0-1) within the mobile app, including changing the display of the shopping screen to feature more clothes. The designs were sent to the development team for implementation.
+<br><br>
 
 ## [Venice Beach Basketball Courts Photoethnography](https://drive.google.com/file/d/19qPM6PSrm_r9Ntu7r1kbKkxSsi5KBYlD/view?usp=sharing)
 
