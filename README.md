@@ -15,17 +15,6 @@ Useful Links
 3. DH 110 Responsive/Bootstrap Tutorial (making it nice): https://docs.google.com/document/d/1CyYUvt42pAI6hiE1CmHUlvB4nJ4RwENeRrh5m_W42jI/edit
 -->
 
-## [DisposeMe](https://github.com/brygoesmoo/DH110/tree/main/Portfolio) (Mobile Waste Disposal Aid)
-<p align="center">
-  <img width="800px" src="https://user-images.githubusercontent.com/79380837/206577164-4c33b189-0411-4ec0-ae20-eaffe3d21ada.png" alt="Seepay Screens">
-</p>
-
-**Role:** UX Researcher/UX Designer
-<br><br> **Challenge:** Design a solution to address one of the UN’s 17 sustainable goals: irresponsible consumption and production. 
-<br><br> **Methodology:** Over the course of 10 weeks, I traversed through the UX design process, which included exploratory research, creating a design statement, conducting research (heuristic evaluation, usability testing, contextual inquiry), engaging in UX storytelling, and designing, testing, and redesigning prototypes. **Tools Used:** Zoom, Google Forms, and Figma. 
-<br><br> **Impact:** I was able to create a prototype of an app called [DisposeMe](https://github.com/brygoesmoo/DH110/tree/main/Portfolio) that addressed irresponsible consumption and production through aiding in waste disposal that was catered to the user’s needs and preferences. 
-<br><br>
-
 ## Seepay (Mobile Payment App)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79380837/206574239-dc6c5d44-8819-463c-8fc1-8b5509ed941d.png" alt="Seepay Screens">
@@ -47,6 +36,17 @@ Useful Links
 <br><br> **Methodology:** Our team followed the UX design process, which involved conducting user research (usability testing, heuristic evaluation, contextual inquiry, root cause analysis), analyzing user research, creating prototypes, and repeat. We create several iterations of the mobile app and compiled them together to create a working prototype.  
 Tools Used: Zoom, Figma, Google Forms, Google Jamboard
 <br><br> **Impact:** Our team improved many [features](https://www.figma.com/file/tEaE90Z5utGdqV2EmIu4OL/Bryant's-NextBest-Prototypes?node-id=0-1) within the mobile app, including changing the display of the shopping screen to feature more clothes. The designs were sent to the development team for implementation.
+<br><br>
+
+## [DisposeMe](https://github.com/brygoesmoo/DH110/tree/main/Portfolio) (Mobile Waste Disposal Aid)
+<p align="center">
+  <img width="800px" src="https://user-images.githubusercontent.com/79380837/206577164-4c33b189-0411-4ec0-ae20-eaffe3d21ada.png" alt="Seepay Screens">
+</p>
+
+**Role:** UX Researcher/UX Designer
+<br><br> **Challenge:** Design a solution to address one of the UN’s 17 sustainable goals: irresponsible consumption and production. 
+<br><br> **Methodology:** Over the course of 10 weeks, I traversed through the UX design process, which included exploratory research, creating a design statement, conducting research (heuristic evaluation, usability testing, contextual inquiry), engaging in UX storytelling, and designing, testing, and redesigning prototypes. **Tools Used:** Zoom, Google Forms, and Figma. 
+<br><br> **Impact:** I was able to create a prototype of an app called [DisposeMe](https://github.com/brygoesmoo/DH110/tree/main/Portfolio) that addressed irresponsible consumption and production through aiding in waste disposal that was catered to the user’s needs and preferences. 
 <br><br>
 
 ## [Venice Beach Basketball Courts Photoethnography](https://drive.google.com/file/d/19qPM6PSrm_r9Ntu7r1kbKkxSsi5KBYlD/view?usp=sharing)
