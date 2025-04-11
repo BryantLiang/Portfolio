@@ -6,7 +6,7 @@
 </p>
 -->
 
-Welcome to my portfolio! I am a recent UCLA graduate with a degree in cognitive science and a minor in anthropology, and I am an emerging UX researcher who loves to gather insights in order to be imaginative and creative in problem solving. Below I have linked some of my UX research projects I have done in the past. If you would like to find out more about me, don't hesitate to check out my [resume](https://drive.google.com/file/d/1ZNlBHIoJuubtkWnWa4b0hddy8zZnh6_j/view) or email me at bryantmliang@gmail.com
+Welcome to my portfolio! I am a recent UCLA graduate with a degree in cognitive science and a minor in anthropology, and I am an emerging UX researcher who loves to gather insights in order to be imaginative and creative in problem solving. Below I have linked some of my UX research projects I have done in the past. If you would like to find out more about me, don't hesitate to check out my [resume](https://drive.google.com/file/d/1ZNlBHIoJuubtkWnWa4b0hddy8zZnh6_j/view) or email me at bryantmliang@gmail.com.
 
 <!-- 
 Useful Links
@@ -33,8 +33,7 @@ Useful Links
 
 **Role:** UX Researcher/UX Designer
 <br><br> **Challenge:** Create a mobile app based on the NextBest website.
-<br><br> **Methodology:** Our team followed the UX design process, which involved conducting user research (usability testing, heuristic evaluation, contextual inquiry, root cause analysis), analyzing user research, creating prototypes, and repeat. We create several iterations of the mobile app and compiled them together to create a working prototype.  
-Tools Used: Zoom, Figma, Google Forms, Google Jamboard
+<br><br> **Methodology:** Our team followed the UX design process, which involved conducting user research (usability testing, heuristic evaluation, contextual inquiry, root cause analysis), analyzing user research, creating prototypes, and repeat. We create several iterations of the mobile app and compiled them together to create a working prototype. **Tools Used:** Zoom, Figma, Google Forms, Google Jamboard
 <br><br> **Impact:** Our team improved many [features](https://www.figma.com/file/tEaE90Z5utGdqV2EmIu4OL/Bryant's-NextBest-Prototypes?node-id=0-1) within the mobile app, including changing the display of the shopping screen to feature more clothes. The designs were sent to the development team for implementation.
 <br><br>
 
@@ -57,5 +56,5 @@ Tools Used: Zoom, Figma, Google Forms, Google Jamboard
 
 **Role:** Photoethnographer
 <br><br> **Challenge:** Analyze a piece of Los Angeles' culture through participant observation and create a photoethography.  
-<br> **Methodology:** In two seperate occasions, I visited the Venice Beach basketball courts and observed the happenings. I took note of the people, the interactions, the artifacts, the patterns, and connected my insights to anthropological themes of gender, class, race/ethnicity. I used my phone to document pictures that supported my insights. 
+<br> **Methodology:** In two seperate occasions, I visited the Venice Beach basketball courts and observed the happenings. I took note of the people, the interactions, the artifacts, the patterns, and connected my insights to anthropological themes of gender, class, race/ethnicity. I used my phone to document pictures that supported my insights. **Tools Used:** iPhone, Google Docs
 <br><br> **Impact:** I was able to document the anthropology of one of Los Angeles's iconic landmarks, the Venice Beach basketball courts, which led to a new perspective on the area. Through the journey, I was able to exercise my curiousity, as well as practice taking field notes and analyzing data in order to create deeper meaning and connections. 
