@@ -6,7 +6,13 @@
 </p>
 -->
 
-Welcome to my portfolio! I am a recent UCLA graduate with a degree in cognitive science and a minor in anthropology, and I am an emerging UX researcher who loves to gather insights in order to be imaginative and creative in problem solving. Below I have linked some of my UX research projects I have done in the past. If you would like to find out more about me, don't hesitate to check out my [resume](https://drive.google.com/file/d/1ZNlBHIoJuubtkWnWa4b0hddy8zZnh6_j/view) or email me at bryantmliang@gmail.com.
+Welcome to my portfolio! I'm a UCLA grad in Cognitive Science with a minor in Anthropology, drawn to understanding people through research and turning insights into meaningful outcomes and creative solutions.
+
+Below are a few projects spanning UX research, product design, and ethnographic fieldwork. 
+
+Welcome to my portfolio! I am a recent UCLA graduate with a degree in cognitive science and a minor in anthropology, and I am an emerging UX researcher who loves to gather insights in order to be imaginative and creative in problem solving. Below I have linked some of my UX research projects I have done in the past. 
+
+If you would like to find out more about me, don't hesitate to check out my [resume](https://drive.google.com/file/d/1K30gM5qZ1WpqSDhfmvP1eryHtCsDN535/view?usp=sharing) or email me at bryantmliang@gmail.com.
 
 <!-- 
 Useful Links
