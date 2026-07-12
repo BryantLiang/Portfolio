@@ -6,7 +6,7 @@
 </p>
 -->
 
-Welcome to my portfolio! I'm a UCLA grad in Cognitive Science with a minor in Anthropology, drawn to understanding people through research and turning insights into meaningful outcomes and creative solutions.
+Welcome to my portfolio! I graduated UCLA in 2023 with a degree in Cognitive Science with a minor in Anthropology, and I am drawn to understanding people through research and turning insights into meaningful outcomes and creative solutions.
 
 Below are a few projects spanning UX research, product design, and ethnographic fieldwork. 
 
